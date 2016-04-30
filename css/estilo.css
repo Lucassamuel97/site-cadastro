@@ -1,0 +1,15 @@
+.botao{
+color: #000;
+font-weight: bold ; /* negrito no texto */
+transition-duration: 0.5s;
+transition-timing-function: ease-in;
+transition-property: all;
+border: solid 2px #E6DFDF;
+}
+.page-header a{
+	text-decoration: none;
+}
+.botao:hover{
+	text-decoration: none;
+	background: #68DA54;
+}
